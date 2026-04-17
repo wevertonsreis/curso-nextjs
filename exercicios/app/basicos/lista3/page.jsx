@@ -1,13 +1,13 @@
 export default function lista2() {
     return (
-        <>
+        <div>
             <div>
                 {gerarLista(10)}
             </div>
             <div>
                 {gerarLista(3)}
             </div>
-        </>
+        </div>
     );
 }
 
